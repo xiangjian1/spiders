@@ -1,1 +1,4 @@
 # spiders
+豆瓣电影爬虫
+一种方式是通过urllib和urllib2爬取数据，并存入本地JSON文件
+另一种方式是通过bs4和xlwt将爬取的数据存入表格
